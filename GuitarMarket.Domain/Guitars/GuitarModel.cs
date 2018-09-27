@@ -9,8 +9,8 @@ namespace GuitarMarket.Domain.Guitars
     {
         public int Id { get; set; }
 
-        public GuitarBrand Brand { get; set; }
-
         public string Model { get; set; }
+
+
     }
 }
