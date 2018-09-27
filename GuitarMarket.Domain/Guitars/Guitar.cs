@@ -18,13 +18,13 @@ namespace GuitarMarket.Domain.Guitars
 
         public int Price { get; set; }
 
-        public ICollection<GuitarPhoto> Photos { get; set; }
 
         public GuitarBrand Brand { get; set; }
 
         public GuitarType Type { get; set; }
 
-        public UserProfile User { get; set; }
+        public int UserId { get; set; }
+
 
         public string Model
         {

@@ -8,7 +8,8 @@ namespace GuitarMarket.Domain.Guitars
     public class GuitarType : IEntity
     {
         public int Id { get; set; }
-
         public string Type { get; set; }
+
+        public ICollection<Guitar> Guitars { set; get; }
     }
 }

@@ -1,0 +1,12 @@
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.Guitars.Data\bin\Debug\netstandard2.0\GuitarMarket.Guitars.Data.deps.json
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.Guitars.Data\bin\Debug\netstandard2.0\GuitarMarket.Guitars.Data.dll
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.Guitars.Data\bin\Debug\netstandard2.0\GuitarMarket.Guitars.Data.pdb
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.Guitars.Data\obj\Debug\netstandard2.0\GuitarMarket.Guitars.Data.csproj.CoreCompileInputs.cache
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.Guitars.Data\obj\Debug\netstandard2.0\GuitarMarket.Guitars.Data.AssemblyInfoInputs.cache
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.Guitars.Data\obj\Debug\netstandard2.0\GuitarMarket.Guitars.Data.AssemblyInfo.cs
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.Guitars.Data\obj\Debug\netstandard2.0\GuitarMarket.Guitars.Data.dll
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.Guitars.Data\obj\Debug\netstandard2.0\GuitarMarket.Guitars.Data.pdb
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.Guitars.Data\bin\Debug\netstandard2.0\GuitarMarket.Domain.dll
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.Guitars.Data\bin\Debug\netstandard2.0\GuitarMarket.Domain.pdb
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.Guitars.Data\obj\Debug\netstandard2.0\GuitarMarket.Guitars.Data.csprojAssemblyReference.cache
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.Guitars.Data\obj\Debug\netstandard2.0\GuitarMarket.Guitars.Data.csproj.CopyComplete

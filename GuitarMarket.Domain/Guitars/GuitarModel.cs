@@ -11,6 +11,6 @@ namespace GuitarMarket.Domain.Guitars
 
         public string Model { get; set; }
 
-
+        public GuitarBrand Brand { get; set; }
     }
 }

@@ -1,0 +1,16 @@
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.Data.Startup\bin\Debug\netcoreapp2.0\GuitarMarket.Data.Startup.deps.json
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.Data.Startup\bin\Debug\netcoreapp2.0\GuitarMarket.Data.Startup.runtimeconfig.json
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.Data.Startup\bin\Debug\netcoreapp2.0\GuitarMarket.Data.Startup.runtimeconfig.dev.json
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.Data.Startup\bin\Debug\netcoreapp2.0\GuitarMarket.Data.Startup.dll
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.Data.Startup\bin\Debug\netcoreapp2.0\GuitarMarket.Data.Startup.pdb
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.Data.Startup\bin\Debug\netcoreapp2.0\GuitarMarket.Domain.dll
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.Data.Startup\bin\Debug\netcoreapp2.0\GuitarMarket.Guitars.Data.dll
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.Data.Startup\bin\Debug\netcoreapp2.0\GuitarMarket.Guitars.Data.pdb
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.Data.Startup\bin\Debug\netcoreapp2.0\GuitarMarket.Domain.pdb
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.Data.Startup\obj\Debug\netcoreapp2.0\GuitarMarket.Data.Startup.csprojAssemblyReference.cache
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.Data.Startup\obj\Debug\netcoreapp2.0\GuitarMarket.Data.Startup.csproj.CoreCompileInputs.cache
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.Data.Startup\obj\Debug\netcoreapp2.0\GuitarMarket.Data.Startup.AssemblyInfoInputs.cache
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.Data.Startup\obj\Debug\netcoreapp2.0\GuitarMarket.Data.Startup.AssemblyInfo.cs
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.Data.Startup\obj\Debug\netcoreapp2.0\GuitarMarket.Data.Startup.csproj.CopyComplete
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.Data.Startup\obj\Debug\netcoreapp2.0\GuitarMarket.Data.Startup.dll
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.Data.Startup\obj\Debug\netcoreapp2.0\GuitarMarket.Data.Startup.pdb

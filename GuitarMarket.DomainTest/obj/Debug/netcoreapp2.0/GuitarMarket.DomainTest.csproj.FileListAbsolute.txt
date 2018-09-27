@@ -12,3 +12,6 @@ C:\TLI\GitHub\GuitarMarket\GuitarMarket.DomainTest\obj\Debug\netcoreapp2.0\Guita
 C:\TLI\GitHub\GuitarMarket\GuitarMarket.DomainTest\obj\Debug\netcoreapp2.0\GuitarMarket.DomainTest.AssemblyInfo.cs
 C:\TLI\GitHub\GuitarMarket\GuitarMarket.DomainTest\obj\Debug\netcoreapp2.0\GuitarMarket.DomainTest.dll
 C:\TLI\GitHub\GuitarMarket\GuitarMarket.DomainTest\obj\Debug\netcoreapp2.0\GuitarMarket.DomainTest.pdb
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.DomainTest\bin\Debug\netcoreapp2.0\GuitarMarket.Domain.dll
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.DomainTest\bin\Debug\netcoreapp2.0\GuitarMarket.Domain.pdb
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.DomainTest\obj\Debug\netcoreapp2.0\GuitarMarket.DomainTest.csproj.CopyComplete

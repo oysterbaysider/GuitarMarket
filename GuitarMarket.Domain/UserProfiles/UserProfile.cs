@@ -1,4 +1,5 @@
 ﻿using GuitarMarket.Domain.Common;
+using GuitarMarket.Domain.Guitars;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -14,5 +15,7 @@ namespace GuitarMarket.Domain.UserProfiles
         public string DisplayName { set; get; }
 
         public string Description { set; get; }
+
+        //public ICollection<Guitar> Guitars { get; set; }
     }
 }

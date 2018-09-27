@@ -1675,6 +1675,16 @@
         "build": {
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "GuitarMarket.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/GuitarMarket.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GuitarMarket.Domain.dll": {}
+        }
       }
     }
   },
@@ -5702,10 +5712,16 @@
         "xunit.runner.visualstudio.2.3.1.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "GuitarMarket.Domain/1.0.0": {
+      "type": "project",
+      "path": "../GuitarMarket.Domain/GuitarMarket.Domain.csproj",
+      "msbuildProject": "../GuitarMarket.Domain/GuitarMarket.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
+      "GuitarMarket.Domain >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 15.7.0",
       "Microsoft.NETCore.App >= 2.0.0",
       "xunit >= 2.3.1",
@@ -5741,7 +5757,11 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\TLI\\GitHub\\GuitarMarket\\GuitarMarket.Domain\\GuitarMarket.Domain.csproj": {
+              "projectPath": "C:\\TLI\\GitHub\\GuitarMarket\\GuitarMarket.Domain\\GuitarMarket.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

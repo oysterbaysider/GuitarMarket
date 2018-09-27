@@ -3,11 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuitarMarket.Domain", "GuitarMarket.Domain\GuitarMarket.Domain.csproj", "{01406F20-C838-4327-B284-AE0ACBB82900}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GuitarMarket.Domain", "GuitarMarket.Domain\GuitarMarket.Domain.csproj", "{01406F20-C838-4327-B284-AE0ACBB82900}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GuitarMarket.Test", "GuitarMarket.Test", "{3D91600C-BA6C-436D-94D2-33C38721B421}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuitarMarket.DomainTest", "GuitarMarket.DomainTest\GuitarMarket.DomainTest.csproj", "{2BD8A18A-1E2E-41F7-8ED8-7850B92DC958}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GuitarMarket.DomainTest", "GuitarMarket.DomainTest\GuitarMarket.DomainTest.csproj", "{2BD8A18A-1E2E-41F7-8ED8-7850B92DC958}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GuitarMarket.Data", "GuitarMarket.Data", "{5FAE4961-3F11-411D-85C7-B335261762A5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GuitarMarket.Api", "GuitarMarket.Api", "{5D6BE5DB-CEBA-4548-AEFC-20C4AB24A780}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuitarMarket.Guitars.Data", "GuitarMarket.Guitars.Data\GuitarMarket.Guitars.Data.csproj", "{31A39460-A099-4EED-8352-9FE63D75C327}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuitarMarket.Data.Startup", "GuitarMarket.Data.Startup\GuitarMarket.Data.Startup.csproj", "{B397A7DB-FB22-4C97-8298-1B52AEF45EAD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,12 +31,22 @@ Global
 		{2BD8A18A-1E2E-41F7-8ED8-7850B92DC958}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2BD8A18A-1E2E-41F7-8ED8-7850B92DC958}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2BD8A18A-1E2E-41F7-8ED8-7850B92DC958}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31A39460-A099-4EED-8352-9FE63D75C327}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31A39460-A099-4EED-8352-9FE63D75C327}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31A39460-A099-4EED-8352-9FE63D75C327}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31A39460-A099-4EED-8352-9FE63D75C327}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B397A7DB-FB22-4C97-8298-1B52AEF45EAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B397A7DB-FB22-4C97-8298-1B52AEF45EAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B397A7DB-FB22-4C97-8298-1B52AEF45EAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B397A7DB-FB22-4C97-8298-1B52AEF45EAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{2BD8A18A-1E2E-41F7-8ED8-7850B92DC958} = {3D91600C-BA6C-436D-94D2-33C38721B421}
+		{31A39460-A099-4EED-8352-9FE63D75C327} = {5FAE4961-3F11-411D-85C7-B335261762A5}
+		{B397A7DB-FB22-4C97-8298-1B52AEF45EAD} = {5FAE4961-3F11-411D-85C7-B335261762A5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E2D20144-231E-435D-AE8A-6BA1C6CA707B}
