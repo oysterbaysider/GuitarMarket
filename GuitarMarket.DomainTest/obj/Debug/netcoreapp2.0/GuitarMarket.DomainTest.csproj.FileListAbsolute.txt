@@ -1,0 +1,14 @@
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.DomainTest\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.DomainTest\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.DomainTest\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.DomainTest\bin\Debug\netcoreapp2.0\GuitarMarket.DomainTest.deps.json
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.DomainTest\bin\Debug\netcoreapp2.0\GuitarMarket.DomainTest.runtimeconfig.json
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.DomainTest\bin\Debug\netcoreapp2.0\GuitarMarket.DomainTest.runtimeconfig.dev.json
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.DomainTest\bin\Debug\netcoreapp2.0\GuitarMarket.DomainTest.dll
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.DomainTest\bin\Debug\netcoreapp2.0\GuitarMarket.DomainTest.pdb
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.DomainTest\obj\Debug\netcoreapp2.0\GuitarMarket.DomainTest.csprojAssemblyReference.cache
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.DomainTest\obj\Debug\netcoreapp2.0\GuitarMarket.DomainTest.csproj.CoreCompileInputs.cache
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.DomainTest\obj\Debug\netcoreapp2.0\GuitarMarket.DomainTest.AssemblyInfoInputs.cache
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.DomainTest\obj\Debug\netcoreapp2.0\GuitarMarket.DomainTest.AssemblyInfo.cs
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.DomainTest\obj\Debug\netcoreapp2.0\GuitarMarket.DomainTest.dll
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.DomainTest\obj\Debug\netcoreapp2.0\GuitarMarket.DomainTest.pdb
