@@ -25,7 +25,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "APIs", "APIs", "{C7735822-B
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GuitarMarket.APIs.Guitars.QueryApis", "APIs\GuitarMarket.APIs.Guitars.QueryApis\GuitarMarket.APIs.Guitars.QueryApis.csproj", "{2BA30204-0FF3-4FA2-9E74-CF51B663FB4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuitarMarket.APIs.GuitarAdvertisements", "GuitarMarket.APIs.GuitarAdvertisements\GuitarMarket.APIs.GuitarAdvertisements.csproj", "{D17BCF3C-398D-4AAE-8F9B-035F64F216D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GuitarMarket.APIs.GuitarAdvertisements", "APIs\GuitarMarket.APIs.GuitarAdvertisements\GuitarMarket.APIs.GuitarAdvertisements.csproj", "{9BCB70AD-7C8E-4440-B9FE-F825D367E678}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -53,10 +53,10 @@ Global
 		{2BA30204-0FF3-4FA2-9E74-CF51B663FB4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2BA30204-0FF3-4FA2-9E74-CF51B663FB4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2BA30204-0FF3-4FA2-9E74-CF51B663FB4A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D17BCF3C-398D-4AAE-8F9B-035F64F216D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D17BCF3C-398D-4AAE-8F9B-035F64F216D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D17BCF3C-398D-4AAE-8F9B-035F64F216D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D17BCF3C-398D-4AAE-8F9B-035F64F216D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BCB70AD-7C8E-4440-B9FE-F825D367E678}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BCB70AD-7C8E-4440-B9FE-F825D367E678}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BCB70AD-7C8E-4440-B9FE-F825D367E678}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BCB70AD-7C8E-4440-B9FE-F825D367E678}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -67,7 +67,7 @@ Global
 		{C6633AF9-3364-4EEE-A868-91011AA3A26E} = {52B80C9A-E57D-49A8-A322-E9D3C189D943}
 		{0D090FEE-6EE7-4222-8C20-8144CAA5A68D} = {B02ED417-DC45-4744-ADE9-CD13AC17D4C2}
 		{2BA30204-0FF3-4FA2-9E74-CF51B663FB4A} = {C7735822-B623-4849-9FDD-4743F92DBCF8}
-		{D17BCF3C-398D-4AAE-8F9B-035F64F216D8} = {C7735822-B623-4849-9FDD-4743F92DBCF8}
+		{9BCB70AD-7C8E-4440-B9FE-F825D367E678} = {C7735822-B623-4849-9FDD-4743F92DBCF8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E2D20144-231E-435D-AE8A-6BA1C6CA707B}
