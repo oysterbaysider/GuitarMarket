@@ -6,13 +6,13 @@ namespace GuitarMarket.Domain.Common
 {
     public interface IAdvertisement
     {
-        int Id { set; get; }
+        string ObjectId { get; }
         string Status { set; get; }
 
         string ItemCondition { get; set; }
 
         DateTime Created { get; set; }
 
-        string PaymentMethod { get; set; }
+        string Description { get; set; }
     }
 }

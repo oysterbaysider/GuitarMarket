@@ -1,0 +1,10 @@
+C:\TLI\GitHub\GuitarMarket\APIs\GuitarMarket.APIs.Guitars.QueryApis\bin\Debug\netcoreapp2.0\GuitarMarket.APIs.Guitars.QueryApis.deps.json
+C:\TLI\GitHub\GuitarMarket\APIs\GuitarMarket.APIs.Guitars.QueryApis\bin\Debug\netcoreapp2.0\GuitarMarket.APIs.Guitars.QueryApis.runtimeconfig.json
+C:\TLI\GitHub\GuitarMarket\APIs\GuitarMarket.APIs.Guitars.QueryApis\bin\Debug\netcoreapp2.0\GuitarMarket.APIs.Guitars.QueryApis.runtimeconfig.dev.json
+C:\TLI\GitHub\GuitarMarket\APIs\GuitarMarket.APIs.Guitars.QueryApis\bin\Debug\netcoreapp2.0\GuitarMarket.APIs.Guitars.QueryApis.dll
+C:\TLI\GitHub\GuitarMarket\APIs\GuitarMarket.APIs.Guitars.QueryApis\bin\Debug\netcoreapp2.0\GuitarMarket.APIs.Guitars.QueryApis.pdb
+C:\TLI\GitHub\GuitarMarket\APIs\GuitarMarket.APIs.Guitars.QueryApis\obj\Debug\netcoreapp2.0\GuitarMarket.APIs.Guitars.QueryApis.csproj.CoreCompileInputs.cache
+C:\TLI\GitHub\GuitarMarket\APIs\GuitarMarket.APIs.Guitars.QueryApis\obj\Debug\netcoreapp2.0\GuitarMarket.APIs.Guitars.QueryApis.AssemblyInfoInputs.cache
+C:\TLI\GitHub\GuitarMarket\APIs\GuitarMarket.APIs.Guitars.QueryApis\obj\Debug\netcoreapp2.0\GuitarMarket.APIs.Guitars.QueryApis.AssemblyInfo.cs
+C:\TLI\GitHub\GuitarMarket\APIs\GuitarMarket.APIs.Guitars.QueryApis\obj\Debug\netcoreapp2.0\GuitarMarket.APIs.Guitars.QueryApis.dll
+C:\TLI\GitHub\GuitarMarket\APIs\GuitarMarket.APIs.Guitars.QueryApis\obj\Debug\netcoreapp2.0\GuitarMarket.APIs.Guitars.QueryApis.pdb

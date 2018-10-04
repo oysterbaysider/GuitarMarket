@@ -1,0 +1,14 @@
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.APIs.GuitarAdvertisements\bin\Debug\netcoreapp2.0\GuitarMarket.APIs.GuitarAdvertisements.deps.json
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.APIs.GuitarAdvertisements\bin\Debug\netcoreapp2.0\GuitarMarket.APIs.GuitarAdvertisements.runtimeconfig.json
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.APIs.GuitarAdvertisements\bin\Debug\netcoreapp2.0\GuitarMarket.APIs.GuitarAdvertisements.runtimeconfig.dev.json
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.APIs.GuitarAdvertisements\bin\Debug\netcoreapp2.0\GuitarMarket.APIs.GuitarAdvertisements.dll
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.APIs.GuitarAdvertisements\bin\Debug\netcoreapp2.0\GuitarMarket.APIs.GuitarAdvertisements.pdb
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.APIs.GuitarAdvertisements\obj\Debug\netcoreapp2.0\GuitarMarket.APIs.GuitarAdvertisements.csprojAssemblyReference.cache
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.APIs.GuitarAdvertisements\obj\Debug\netcoreapp2.0\GuitarMarket.APIs.GuitarAdvertisements.csproj.CoreCompileInputs.cache
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.APIs.GuitarAdvertisements\obj\Debug\netcoreapp2.0\GuitarMarket.APIs.GuitarAdvertisements.AssemblyInfoInputs.cache
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.APIs.GuitarAdvertisements\obj\Debug\netcoreapp2.0\GuitarMarket.APIs.GuitarAdvertisements.AssemblyInfo.cs
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.APIs.GuitarAdvertisements\obj\Debug\netcoreapp2.0\GuitarMarket.APIs.GuitarAdvertisements.dll
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.APIs.GuitarAdvertisements\obj\Debug\netcoreapp2.0\GuitarMarket.APIs.GuitarAdvertisements.pdb
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.APIs.GuitarAdvertisements\bin\Debug\netcoreapp2.0\GuitarMarket.Domain.dll
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.APIs.GuitarAdvertisements\bin\Debug\netcoreapp2.0\GuitarMarket.Domain.pdb
+C:\TLI\GitHub\GuitarMarket\GuitarMarket.APIs.GuitarAdvertisements\obj\Debug\netcoreapp2.0\GuitarMarket.APIs.GuitarAdvertisements.csproj.CopyComplete
