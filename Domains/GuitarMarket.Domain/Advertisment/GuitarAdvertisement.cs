@@ -7,7 +7,6 @@ namespace GuitarMarket.Domain.Sales
 {
     public class GuitarAdvertisement : IAdvertisement
     {
-        public string ObjectId { get; }
         public string Status { get; set; }
         public string ItemCondition { get; set; }
         public DateTime Created { get; set; }

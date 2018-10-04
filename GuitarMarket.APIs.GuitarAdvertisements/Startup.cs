@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using GuitarMarket.APIs.GuitarAdvertisements.Models;
+using GuitarMarket.APIs.GuitarAdvertisements.Repositories;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
@@ -31,8 +33,8 @@ namespace GuitarMarket.APIs.GuitarAdvertisements
                     options.Database = Configuration.GetSection("MongoDb:Database").Value;
                 });
 
-            //services.AddTransient<IGameContext, GameContext>();
-            //services.AddTransient<IGameRepository, GameRepository>();
+            services.AddTransient<IGuitarAdvertisementContext, GuitarAdvertisementContext>();
+            services.AddTransient<IGuitarAdvertisementRepository, GuitarAdvertisementRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

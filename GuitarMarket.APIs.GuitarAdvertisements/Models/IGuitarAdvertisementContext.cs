@@ -9,6 +9,6 @@ namespace GuitarMarket.APIs.GuitarAdvertisements.Models
 {
     public interface IGuitarAdvertisementContext
     {
-        IMongoCollection<GuitarAdvertisement> GuitarAdvertisements { get; }
+        IMongoCollection<GuitarAD> GuitarAdvertisements { get; }
     }
 }

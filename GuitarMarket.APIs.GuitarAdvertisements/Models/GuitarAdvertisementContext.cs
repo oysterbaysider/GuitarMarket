@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using GuitarMarket.Domain.Sales;
+﻿using GuitarMarket.Domain.Sales;
 using Microsoft.Extensions.Options;
 using MongoDB.Driver;
 
@@ -18,6 +14,6 @@ namespace GuitarMarket.APIs.GuitarAdvertisements.Models
             _db = client.GetDatabase(options.Value.Database);
         }
 
-        public IMongoCollection<GuitarAdvertisement> GuitarAdvertisements => _db.GetCollection<GuitarAdvertisement>("GuitarAdvertisements");
+        public IMongoCollection<GuitarAD> GuitarAdvertisements => _db.GetCollection<GuitarAD>("GuitarAdvertisements");
     }
 }
