@@ -12,5 +12,10 @@ namespace GuitarMarket.APIs.GuitarAdvertisements.Repositories
         Task CreateAsync(GuitarAD guitarAd);
 
         Task<IEnumerable<GuitarAD>> GetAllAds();
+
+        Task<GuitarAD> GetGuitarAD(string GuitarADId);
+
+        Task<bool> Update(GuitarAD game);
+        Task<bool> Delete(string GuitarADId);
     }
 }

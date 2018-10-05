@@ -13,7 +13,5 @@ namespace GuitarMarket.APIs.GuitarAdvertisements.Models
         [BsonId]
         public ObjectId GuitarADId { get; set; }
 
-
-
     }
 }

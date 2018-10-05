@@ -9,9 +9,9 @@ C:\TLI\GitHub\GuitarMarket\GuitarMarket.Domain\obj\Debug\netstandard2.0\GuitarMa
 C:\TLI\GitHub\GuitarMarket\Domains\GuitarMarket.Domain\bin\Debug\netstandard2.0\GuitarMarket.Domain.deps.json
 C:\TLI\GitHub\GuitarMarket\Domains\GuitarMarket.Domain\bin\Debug\netstandard2.0\GuitarMarket.Domain.dll
 C:\TLI\GitHub\GuitarMarket\Domains\GuitarMarket.Domain\bin\Debug\netstandard2.0\GuitarMarket.Domain.pdb
+C:\TLI\GitHub\GuitarMarket\Domains\GuitarMarket.Domain\obj\Debug\netstandard2.0\GuitarMarket.Domain.csprojAssemblyReference.cache
 C:\TLI\GitHub\GuitarMarket\Domains\GuitarMarket.Domain\obj\Debug\netstandard2.0\GuitarMarket.Domain.csproj.CoreCompileInputs.cache
 C:\TLI\GitHub\GuitarMarket\Domains\GuitarMarket.Domain\obj\Debug\netstandard2.0\GuitarMarket.Domain.AssemblyInfoInputs.cache
 C:\TLI\GitHub\GuitarMarket\Domains\GuitarMarket.Domain\obj\Debug\netstandard2.0\GuitarMarket.Domain.AssemblyInfo.cs
 C:\TLI\GitHub\GuitarMarket\Domains\GuitarMarket.Domain\obj\Debug\netstandard2.0\GuitarMarket.Domain.dll
 C:\TLI\GitHub\GuitarMarket\Domains\GuitarMarket.Domain\obj\Debug\netstandard2.0\GuitarMarket.Domain.pdb
-C:\TLI\GitHub\GuitarMarket\Domains\GuitarMarket.Domain\obj\Debug\netstandard2.0\GuitarMarket.Domain.csprojAssemblyReference.cache

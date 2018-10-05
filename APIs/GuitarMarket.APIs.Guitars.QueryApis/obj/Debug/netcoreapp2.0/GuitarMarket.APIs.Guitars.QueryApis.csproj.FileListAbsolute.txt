@@ -8,4 +8,3 @@ C:\TLI\GitHub\GuitarMarket\APIs\GuitarMarket.APIs.Guitars.QueryApis\obj\Debug\ne
 C:\TLI\GitHub\GuitarMarket\APIs\GuitarMarket.APIs.Guitars.QueryApis\obj\Debug\netcoreapp2.0\GuitarMarket.APIs.Guitars.QueryApis.AssemblyInfo.cs
 C:\TLI\GitHub\GuitarMarket\APIs\GuitarMarket.APIs.Guitars.QueryApis\obj\Debug\netcoreapp2.0\GuitarMarket.APIs.Guitars.QueryApis.dll
 C:\TLI\GitHub\GuitarMarket\APIs\GuitarMarket.APIs.Guitars.QueryApis\obj\Debug\netcoreapp2.0\GuitarMarket.APIs.Guitars.QueryApis.pdb
-C:\TLI\GitHub\GuitarMarket\APIs\GuitarMarket.APIs.Guitars.QueryApis\obj\Debug\netcoreapp2.0\GuitarMarket.APIs.Guitars.QueryApis.csprojAssemblyReference.cache
